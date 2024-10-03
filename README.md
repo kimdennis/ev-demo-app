@@ -1,1 +1,1 @@
-# CPS613 E-Car Project
+# Human-Computer Interaction E-Car Project
